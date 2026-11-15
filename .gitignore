@@ -1,4 +1,4 @@
-*.log
+﻿*.log
 .DS_Store
 .env
 .env.backup
@@ -22,8 +22,10 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/.vagrant
 
 /database/*.sqlite
+/database/*.sqlite3
 /storage/framework/sessions/*
 /storage/framework/views/*
 /storage/framework/cache/*
