@@ -278,3 +278,16 @@
 
 # **This project is developed for educational and portfolio purposes.**
 
+
+## Screenshots
+
+### Homepage
+
+<p align="center">
+  <img src="screenshots/homepage.png" alt="Skill Connect Homepage" width="900">
+</p>
+
+<p align="center">
+  <em>Skill Connect - Job Marketplace Homepage</em>
+</p>
+
