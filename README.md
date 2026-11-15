@@ -1,4 +1,4 @@
-﻿# **# Skill Connect – Job Marketplace Platform**
+﻿# **Skill Connect – Job Marketplace Platform**
 
 # 
 
@@ -6,7 +6,7 @@
 
 # 
 
-# **## Project Overview**
+# **Project Overview**
 
 # 
 
@@ -14,11 +14,11 @@
 
 # 
 
-# **## Key Features**
+# **Key Features**
 
 # 
 
-# **### Authentication \& User Management**
+# **Authentication \& User Management**
 
 # **- User Registration and Login**
 
@@ -30,7 +30,7 @@
 
 # 
 
-# **### Job Management**
+# **Job Management**
 
 # **- Post New Jobs**
 
@@ -42,7 +42,7 @@
 
 # 
 
-# **### Application Management**
+# **Application Management**
 
 # **- Apply for Jobs**
 
@@ -60,7 +60,7 @@
 
 # 
 
-# **## Technology Stack**
+# **Technology Stack**
 
 # 
 
@@ -84,7 +84,7 @@
 
 # 
 
-# **## Project Architecture**
+# **Project Architecture**
 
 # 
 
@@ -100,7 +100,7 @@
 
 # 
 
-# **## Installation \& Setup**
+# **Installation \& Setup**
 
 # 
 
@@ -108,7 +108,7 @@
 
 # 
 
-# **### Prerequisites**
+# **Prerequisites**
 
 # **- PHP 8.2 or later**
 
@@ -122,43 +122,37 @@
 
 # 
 
-# **### 1. Clone the Repository**
+# **1. Clone the Repository**
 
 # 
 
-# **```bash**
+# **bash**
 
 # **git clone https://github.com/misha-akter/skill-connect.git**
 
 # **cd skill-connect**
 
-# **```**
+# 
+
+# **2. Install Dependencies**
 
 # 
 
-# **### 2. Install Dependencies**
-
-# 
-
-# **```bash**
+# **bash**
 
 # **composer install**
 
 # **npm install**
 
-# **```**
+# 
+
+# **3. Configure Environment**
 
 # 
 
-# **### 3. Configure Environment**
-
-# 
-
-# **```bash**
+# **bash**
 
 # **copy .env.example .env**
-
-# **```**
 
 # 
 
@@ -166,7 +160,7 @@
 
 # 
 
-# **```env**
+# **env**
 
 # **DB\_CONNECTION=mysql**
 
@@ -180,7 +174,7 @@
 
 # **DB\_PASSWORD=**
 
-# **```**
+# 
 
 # 
 
@@ -192,47 +186,39 @@
 
 # 
 
-# **```bash**
+# **bash**
 
 # **php artisan key:generate**
 
-# **```**
+# 
+
+# **5. Run Database Migrations**
 
 # 
 
-# **### 5. Run Database Migrations**
-
-# 
-
-# **```bash**
+# **bash**
 
 # **php artisan migrate**
 
-# **```**
+# 
+
+# **6. Build Frontend Assets**
 
 # 
 
-# **### 6. Build Frontend Assets**
-
-# 
-
-# **```bash**
+# **bash**
 
 # **npm run build**
 
-# **```**
+# 
+
+# **7. Start the Development Server**
 
 # 
 
-# **### 7. Start the Development Server**
-
-# 
-
-# **```bash**
+# **bash**
 
 # **php artisan serve**
-
-# **```**
 
 # 
 
@@ -244,7 +230,7 @@
 
 # 
 
-# **## Project Goals**
+# **Project Goals**
 
 # 
 
@@ -258,7 +244,7 @@
 
 # 
 
-# **## Future Improvements**
+# **Future Improvements**
 
 # 
 
@@ -274,7 +260,7 @@
 
 # 
 
-# **## Developer**
+# **Developer**
 
 # 
 
@@ -286,7 +272,7 @@
 
 # 
 
-# **## License**
+# **License**
 
 # 
 
