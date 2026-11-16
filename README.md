@@ -314,3 +314,10 @@
 </p>
 
 
+
+<p align="center">
+  <img src="screenshots/register.png" alt="Registration Page" width="850">
+  <br>
+  <em>Registration Page</em>
+</p>
+
