@@ -279,17 +279,6 @@
 # **This project is developed for educational and portfolio purposes.**
 
 
-## Screenshots
-
-### Homepage
-
-<p align="center">
-  <img src="screenshots/homepage.png" alt="Skill Connect Homepage" width="900">
-</p>
-
-<p align="center">
-  <em>Skill Connect - Job Marketplace Homepage</em>
-</p>
 
 
 ## Screenshots
@@ -324,36 +313,4 @@
   <em>Applicants Page</em>
 </p>
 
-
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/homepage.png" alt="Homepage" width="850">
-  <br>
-  <em>Homepage</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/login.png" alt="Login Page" width="850">
-  <br>
-  <em>Login Page</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="850">
-  <br>
-  <em>Dashboard</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/job%20details.png" alt="Job Details" width="850">
-  <br>
-  <em>Job Details</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/aplicants.png" alt="Applicants Page" width="850">
-  <br>
-  <em>Applicants Page</em>
-</p>
 
